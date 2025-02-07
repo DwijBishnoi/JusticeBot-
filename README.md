@@ -6,4 +6,3 @@ We made this Bot to Provide all necessary help or legal help and access to all l
 We also provide datasets regarding all necessary data points and legal help. 
 This Bot can also provide a Court Fees Structure for Proceedings related to miscellaneous acts.
 This Bot also has a Multilingual structure which helps local people interact with the Bot in their convenience and with their language.
-
